@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a805f336-2037-4cdb-a04a-7de1033bd857" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +63,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581076012992</updated>
-      <workItem from="1581076086424" duration="4711000" />
+      <workItem from="1581076086424" duration="6362000" />
     </task>
+    <task id="LOCAL-00001" summary="python manage.py startapp run">
+      <created>1581096655346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581096655346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python manage.py startapp run" />
+    <option name="LAST_COMMIT_MESSAGE" value="python manage.py startapp run" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581096653437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581096653437" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1581076821179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
