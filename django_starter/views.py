@@ -9,5 +9,5 @@ def home(request):
 
 
 def result(request):
-    res = int(request.GET['num1']) + int(request.GET['num2'])
+    res = int(request.POST['num1']) + int(request.POST['num2'])
     return render(request, 'result.html', {'result': res})

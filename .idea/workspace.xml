@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a805f336-2037-4cdb-a04a-7de1033bd857" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_starter/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_starter/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581076012992</updated>
-      <workItem from="1581076086424" duration="10605000" />
+      <workItem from="1581076086424" duration="11868000" />
     </task>
     <task id="LOCAL-00001" summary="python manage.py startapp run">
       <created>1581096655346</created>
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581099715506</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="handling a simple addition in the backend of the website">
+      <created>1581103018071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581103018071</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,17 +135,22 @@
     <MESSAGE value="python manage.py startapp run" />
     <MESSAGE value="server has been run!" />
     <MESSAGE value="Hello Django!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello Django!" />
+    <MESSAGE value="handling a simple addition in the backend of the website" />
+    <option name="LAST_COMMIT_MESSAGE" value="handling a simple addition in the backend of the website" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581099713312">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581103014357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581099713312" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581103014357" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1581076821179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581076821179" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581104024556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581104024556" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581076092207">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
