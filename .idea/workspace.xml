@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a805f336-2037-4cdb-a04a-7de1033bd857" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/django_starter/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoStarter/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoStarter/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_starter/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,17 +19,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XThUxym01I7Q6ZTDzVE51aMA5g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/django_starter" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aaron\PycharmProjects\djangoStarter\django_starter" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="djangoStarter" type="Python.DjangoServer" factoryName="Django server">
@@ -63,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581076012992</updated>
-      <workItem from="1581076086424" duration="6362000" />
+      <workItem from="1581076086424" duration="7704000" />
     </task>
     <task id="LOCAL-00001" summary="python manage.py startapp run">
       <created>1581096655346</created>
@@ -72,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581096655346</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="server has been run!">
+      <created>1581098184424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581098184424</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,8 +109,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="python manage.py startapp run" />
-    <option name="LAST_COMMIT_MESSAGE" value="python manage.py startapp run" />
+    <MESSAGE value="server has been run!" />
+    <option name="LAST_COMMIT_MESSAGE" value="server has been run!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581098182838">
