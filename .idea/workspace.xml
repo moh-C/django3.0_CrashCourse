@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a805f336-2037-4cdb-a04a-7de1033bd857" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_starter/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_starter/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +85,7 @@
       <updated>1581076012992</updated>
       <workItem from="1581076086424" duration="12083000" />
       <workItem from="1581180076948" duration="155000" />
-      <workItem from="1581180743556" duration="595000" />
+      <workItem from="1581180743556" duration="941000" />
     </task>
     <task id="LOCAL-00001" summary="python manage.py startapp run">
       <created>1581096655346</created>
@@ -148,6 +151,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Get request is now changed into post request" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581185557396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581185557396" />
     <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581104635671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -164,5 +171,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581180104704" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1581185641279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581185641279" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581185621355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581185621355" />
   </component>
 </project>
