@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a805f336-2037-4cdb-a04a-7de1033bd857" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_starter/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_starter/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581076012992</updated>
-      <workItem from="1581076086424" duration="11868000" />
+      <workItem from="1581076086424" duration="12083000" />
+      <workItem from="1581180076948" duration="155000" />
+      <workItem from="1581180743556" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="python manage.py startapp run">
       <created>1581096655346</created>
@@ -113,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581103018071</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Get request is now changed into post request">
+      <created>1581104639010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581104639010</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +130,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -136,24 +144,25 @@
     <MESSAGE value="server has been run!" />
     <MESSAGE value="Hello Django!" />
     <MESSAGE value="handling a simple addition in the backend of the website" />
-    <option name="LAST_COMMIT_MESSAGE" value="handling a simple addition in the backend of the website" />
+    <MESSAGE value="Get request is now changed into post request" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get request is now changed into post request" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581103014357">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581104635671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581103014357" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581104635671" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1581076821179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581076821179" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581104024556">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581104642984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581104024556" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581076092207">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581104642984" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581180104704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581076092207" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581180104704" />
   </component>
 </project>
