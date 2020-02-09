@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a805f336-2037-4cdb-a04a-7de1033bd857" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Aaron.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_starter/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_starter/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_starter/views.py" afterDir="false" />
@@ -92,7 +89,7 @@
       <workItem from="1581076086424" duration="12083000" />
       <workItem from="1581180076948" duration="155000" />
       <workItem from="1581180743556" duration="4190000" />
-      <workItem from="1581236767442" duration="1747000" />
+      <workItem from="1581236767442" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="python manage.py startapp run">
       <created>1581096655346</created>
@@ -150,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581188853154</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="images are now dynamic">
+      <created>1581239034955</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581239034955</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +183,8 @@
     <MESSAGE value="index is now added" />
     <MESSAGE value="running the html file only" />
     <MESSAGE value="html file corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="html file corrections" />
+    <MESSAGE value="images are now dynamic" />
+    <option name="LAST_COMMIT_MESSAGE" value="images are now dynamic" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581236889293">
